@@ -1,7 +1,5 @@
 # TKO Brick-Con FY27: Agentic Fraud Triage Demo
 
-**Live App:** https://tko-fraud-triage-7474655348825387.aws.databricksapps.com
-
 ## What I Did (5 Bullets)
 
 1. Gave Claude Code a single prompt with the Brick-Con Google Doc and Slack channel — it read the use case requirements, understood the context, and planned the entire build autonomously.
