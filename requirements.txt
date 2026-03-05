@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+databricks-sdk
+databricks-sql-connector
+sqlalchemy
+psycopg2-binary
+openai
+jinja2
+python-multipart

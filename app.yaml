@@ -1,0 +1,12 @@
+command:
+  - python
+  - app.py
+env:
+  - name: DATABRICKS_WAREHOUSE_ID
+    value: f4040a30fe978741
+resources:
+  - name: sql-warehouse
+    description: "SQL warehouse for querying fraud data"
+    sql_warehouse:
+      id: f4040a30fe978741
+      permission: CAN_USE

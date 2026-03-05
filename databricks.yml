@@ -1,0 +1,9 @@
+bundle:
+  name: tko_demo
+
+targets:
+  dev:
+    workspace:
+      host: https://e2-demo-field-eng.cloud.databricks.com
+      profile: e2-field
+    default: true
